@@ -35,7 +35,7 @@ template <typename T> ostream &operator<<(ostream &out, vector<T> &a) { for (T &
 
 void Main()
 {
-    
+    cout<<"hello world!"<<endl;
     
 }
 
