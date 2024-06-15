@@ -35,8 +35,10 @@ template <typename T> ostream &operator<<(ostream &out, vector<T> &a) { for (T &
 
 void Main()
 {
-    
-    
+    int n;
+    for (int o{}; o < 5;o++){
+        cout << "p" << endl;
+    }
 }
 
 int32_t main()
